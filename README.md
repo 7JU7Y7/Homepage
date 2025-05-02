@@ -19,4 +19,5 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 ## Commands
 
+Bulid & Preview: npx quartz build --serve
 Synchronize & Auto-deploy: npx quartz sync
