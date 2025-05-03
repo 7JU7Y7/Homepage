@@ -1,3 +1,20 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// quartz/styles/custom.scss
+
+// Grid 方案
+.awards-grid {
+  display: grid;
+  grid-template-columns: 1.7fr 1.2fr 0.6fr;
+  gap: 1em;
+  align-items: start;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 600px) {
+  .awards-grid {
+    grid-template-columns: 1fr;
+  }
+}
