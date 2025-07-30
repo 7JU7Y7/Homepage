@@ -40,16 +40,20 @@ title: About Me 🥳
 
 <div class="awards-grid">
 
+  <div class="cell">中国人工智能学会社会计算创新大赛</div>
+  <div class="cell"><b>第四名</b>（三等奖）</div>
+  <div class="cell">2025.08</div>
+
   <div class="cell">中华人民共和国教育部</div>
   <div class="cell"><b>国家奖学金</b></div>
   <div class="cell">2024.12</div>
 
   <div class="cell">动感地带AI+高校创智计划—AI内容赛道</div>
-  <div class="cell">国家级二等奖、最佳创意奖、榜Young出彩奖、 <a href="https://news.cyol.com/gb/articles/2024-12/15/content_ny3ZZwCe3x.html" target="_blank">中青网报道</a> </div>
+  <div class="cell">全国总决赛二等奖、最佳创意奖、榜Young出彩奖、 <a href="https://news.cyol.com/gb/articles/2024-12/15/content_ny3ZZwCe3x.html" target="_blank">中青网报道</a> </div>
   <div class="cell">2024.12</div>
 
-  <div class="cell">中国高校计算机大赛—智能交互创新赛</div>
-  <div class="cell"><b>国家级二等奖</b>、 <a href="https://mp.weixin.qq.com/s/yVDdtoutH9P6OdULntJgHA?scene=1" target="_blank">优秀作品报道</a> </div>
+  <div class="cell">第三届中国高校计算机大赛—智能交互创新赛</div>
+  <div class="cell"><b>全国总决赛二等奖</b>、 <a href="https://mp.weixin.qq.com/s/yVDdtoutH9P6OdULntJgHA?scene=1" target="_blank">优秀作品报道</a> </div>
   <div class="cell">2024.11</div>
 
   <div class="cell">黄乾亨基金会</div>
@@ -60,24 +64,24 @@ title: About Me 🥳
   <div class="cell">优秀学生</div>
   <div class="cell">2024.10</div>
 
-  <div class="cell">中国大学生计算机设计大赛</div>
-  <div class="cell">国家级二等奖</div>
+  <div class="cell">第17届中国大学生计算机设计大赛</div>
+  <div class="cell">二等奖</div>
   <div class="cell">2024.08</div>
 
-  <div class="cell">中国国际大学生创新大赛</div>
-  <div class="cell">校级铜奖</div>
+  <div class="cell">中国国际大学生创新大赛四川大学校赛</div>
+  <div class="cell">铜奖</div>
   <div class="cell">2024.08</div>
 
   <div class="cell">National University of Singapore, School of Computing, Summer Workshop 2024, Artificial Intelligence of Things</div>
   <div class="cell"><b>A+</b></div>
   <div class="cell">2024.07</div>
 
-  <div class="cell">中国高校计算机大赛—网络技术挑战赛</div>
+  <div class="cell">2024年中国高校计算机大赛—网络技术挑战赛</div>
   <div class="cell">西南赛区三等奖</div>
   <div class="cell">2024.07</div>
 
   <div class="cell">四川大学“习概”课程微视频大赛</div>
-  <div class="cell">校级一等奖</div>
+  <div class="cell">一等奖</div>
   <div class="cell">2024.07</div>
 
   <div class="cell">四川大学</div>
@@ -96,16 +100,16 @@ title: About Me 🥳
   <div class="cell">综合三等奖学金</div>
   <div class="cell">2023.10</div>
 
-  <div class="cell">中国大学生计算机设计大赛</div>
-  <div class="cell">四川省二等奖</div>
+  <div class="cell">第16届中国大学生计算机设计大赛四川省级赛</div>
+  <div class="cell">二等奖</div>
   <div class="cell">2023.05</div>
 
   <div class="cell">四川大学“思想道德与法治“课程微视频大赛</div>
-  <div class="cell">校级二等奖</div>
+  <div class="cell">二等奖</div>
   <div class="cell">2022.12</div>
 
   <div class="cell">四川大学微团课大赛</div>
-  <div class="cell">校级二等奖</div>
+  <div class="cell">二等奖</div>
   <div class="cell">2022.10</div>
 
   <div class="cell">北京市海淀区</div>
