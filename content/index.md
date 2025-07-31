@@ -11,9 +11,11 @@ I’m passionate about photography📷, filming short movies🎥, making electro
 I can’t wait to share my journey with you! 🥳
 
 [About Me 🐾](resume.md)
+<a href="https://orcid.org/0009-0006-6493-2378" target="_blank">ORCID</a>
+<a href="https://dblp.org/pid/02/4890.html" target="_blank">DBLP</a>
 <a href="https://github.com/7JU7Y7" target="_blank">Github</a>
-<a href="https://www.zotero.org/ju7y" target="_blank">Zotero</a>
 <a href="https://openreview.net/profile?id=~Hongkai_Wang2" target="_blank">OpenReview</a>
+<a href="https://www.zotero.org/ju7y" target="_blank">Zotero</a>
 <a href="https://nas.ju7y.top:7745" target="_blank">Nas</a>
 
 Mail me at hongkaiwangscu@gmail.com

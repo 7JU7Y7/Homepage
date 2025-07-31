@@ -32,7 +32,7 @@ title: About Me 🥳
 
 ## **Publications**
 
-- Guanqun Bi; Zhuang Chen; Zhoufu Liu; **Hongkai Wang**; Xiyao Xiao; Yuqiang Xie; Wen Zhang; Yongkang Huang; Yuxuan Chen; Libiao Peng; Yi Feng; Minlie Huang. 2025. MAGI: Multi-Agent Guided Interview for Psychiatric Assessment. <a href="https://doi.org/10.48550/arXiv.2504.18260" target="_blank">arXiv abs/2504.18260</a>.
+- Guanqun Bi, Zhuang Chen, Zhoufu Liu, <b>Hongkai Wang</b>, Xiyao Xiao, Yuqiang Xie, Wen Zhang, Yongkang Huang, Yuxuan Chen, Libiao Peng, and Minlie Huang. 2025. <b>MAGI: Multi-Agent Guided Interview for Psychiatric Assessment</b>. In Findings of the Association for Computational Linguistics: ACL 2025, pages 24898–24921, Vienna, Austria. Association for Computational Linguistics. <a href="https://aclanthology.org/2025.findings-acl.1278/" target="_blank">2025.findings-acl.1278</a>.
 
 ---
 
