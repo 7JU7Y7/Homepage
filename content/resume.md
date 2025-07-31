@@ -44,6 +44,10 @@ title: About Me 🥳
   <div class="cell"><b>第四名</b>（三等奖）</div>
   <div class="cell">2025.08</div>
 
+  <div class="cell">共青团四川省委-四川省学生联合会</div>
+  <div class="cell">综合素质A级证书</div>
+  <div class="cell">2025.07</div>
+
   <div class="cell">中华人民共和国教育部</div>
   <div class="cell"><b>国家奖学金</b></div>
   <div class="cell">2024.12</div>
