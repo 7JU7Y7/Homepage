@@ -8,7 +8,7 @@ title: About
 
   <div class="cell">Institute of Information Engineering, <a href="https://english.cas.cn/" target="_blank">University of Chinese Academy of Sciences</a> <br> <a href="https://www.ucas.ac.cn/" target="_blank">中国科学院大学</a> <a href="https://www.iie.ac.cn/" target="_blank">信息工程研究所</a></div>
   <div class="cell">推免</div>
-  <div class="cell">2026.09 - 2029.09</div>
+  <div class="cell">2026.09 - 2029.06</div>
 
   <div class="cell"><a href="https://sw.scu.edu.cn/e_rjxy/" target="_blank">College of Software Engineering</a>, <a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a> <br> <a href="https://www.scu.edu.cn/" target="_blank">四川大学</a> <a href="https://sw.scu.edu.cn/" target="_blank">软件学院</a></div>
   <div class="cell">Undergraduate Student<br>大学在读</div>
@@ -22,7 +22,7 @@ title: About
 
 ---
 
-## **Work Experiences**
+## **Intern Experiences**
 
 <div class="awards-grid">
 
@@ -43,6 +43,10 @@ title: About
 ## **Honors & Awards**
 
 <div class="awards-grid">
+  <div class="cell">China Yangtze Power Co., Ltd. <br>中国长江电力股份有限公司</div>
+  <div class="cell"><b>Yangtze Power Scholarship<br>长江电力奖学金</b></div>
+  <div class="cell">2025.12</div>
+
   <div class="cell">Sichuan Province, P. R. China<br>四川省</div>
   <div class="cell"><b>Outstanding University Graduate<br>优秀大学毕业生</b></div>
   <div class="cell">2025.10</div>
