@@ -47,7 +47,7 @@ title: About
   <div class="cell"><b>Yangtze Power Scholarship<br>长江电力奖学金</b></div>
   <div class="cell">2025.12</div>
 
-  <div class="cell">Sichuan Province, P. R. China<br>四川省</div>
+  <div class="cell">Sichuan Provincial Department of Education<br>四川省教育厅</div>
   <div class="cell"><b>Outstanding University Graduate<br>优秀大学毕业生</b></div>
   <div class="cell">2025.10</div>
 
